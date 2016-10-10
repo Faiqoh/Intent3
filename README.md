@@ -3,11 +3,11 @@
 Intent 3
 
 ### B. Screenshot
-![3.jpg](https://s4.postimg.org/lby3f77fh/image.jpg)
-![3.1.jpg](https://s11.postimg.org/5uh4z6eoz/3_1.jpg)
-![3.2.jpg](https://s12.postimg.org/txoammpel/3_2.jpg)
-![3.3.jpg](https://s4.postimg.org/cbaju8ht9/3_3.jpg)
-![3.4.jpg](https://s16.postimg.org/ghufi2os5/3_4.jpg)
+![3.png](https://s22.postimg.org/qfyaqn0ht/image.png)
+![3.1.png](https://s16.postimg.org/c5jrtnsn9/3_1.png)
+![3.2.png](https://s18.postimg.org/pt2ae9349/3_2.png)
+![3.3.png](https://s22.postimg.org/scplqc3c1/3_3.png)
+![3.4.png](https://s10.postimg.org/5cluq8ru1/3_4.png)
 
 ### C. Data Diri
 - Nama  : Faiqoh
